@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🌱 I’m currently learning **Full Stack Development**<br><br>💬 Ask me about HTML,CSS,JAVASCRIPT,C++<br><br>📫 How to reach me sumitmewa@gmail.com
+🌱 I’m currently learning **Full Stack Development**<br><br>💬 Ask me about HTML,CSS,JAVASCRIPT,C++,REACT.JS,NODE.JS<br><br>📫 How to reach me sumitmewa@gmail.com
 
 
 ## 🌐 Socials:
